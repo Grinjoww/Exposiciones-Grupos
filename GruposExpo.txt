@@ -1,0 +1,34 @@
+Grupo #1: Node.js
+-Presentan diapositivas hechas con IA y no ajusta el tamaño de la letra
+-No aplicaron el framework que expusieron anteriormente
+-Umaginga explicó instalación pero eso no se pedía, ya eso se debía saber, solo era de presentar el consumo de las APIs
+
+
+Grupo #2: Svelte
+- Las diapositivas claras pero sus imágenes poco visibles.
+- Beltrán: Presentó crud completo, explicó parte del código donde consume la API
+- Zambrano Alison: Explicó la instalación y ejecución, parte teórica y cierre.
+ 
+grupo 3 (ALPINE.JS)
+Loor
+Figueroa
+
+Explicó el uso de Alpine.js junto con SQLite, resaltando que esta última es una base de datos ligera y embebida. Durante la demostración mostraron cómo levantar el frontend y el backend de forma sencilla y cómo realizar peticiones al servidor. También presentaron el uso de Swagger para documentar las API, además de funciones como x-show, x-model y fetch para el manejo de errores, validaciones y comunicación con el backend mediante tokens. Aunque la exposición fue clara y práctica, se comentó que el proyecto no siguió completamente las consignas, ya que no consumía directamente las API de Spring Boot. Finalmente, mencionaron que Alpine.js es útil para proyectos simples, pero tiene limitaciones para desarrollos más grandes.
+
+El grupo 4, representado por Pallo, explicó la configuración inicial de Next.js utilizando npm y npx, destacando que el frontend se encarga únicamente de la interfaz y consume las API desarrolladas en Spring Boot mediante la URL del backend. También mostró cómo se estructuran las peticiones, las validaciones y la importancia de "use client" para ejecutar correctamente ciertas funciones. La demostración se centró en la organización del proyecto y la creación de las carpetas principales, aunque dedicó más tiempo a mostrar los resultados en Postman y Docker que al funcionamiento del frontend en la aplicación.
+
+Grupo #5: Quick city
+- Presentan diapositivas claras
+- Zaida demuestra quién y en donde usan este framework, explica la comparación frente a otros frameworks
+- Kevin pasa a demostrar la instalación de qwick, no directamente una página consumiendo la API, nos demuestra los comandos de instalación paso a paso
+- Zaida vuelve a la práctica y muestra parte del código explicando paso a paso las funciones y cosas que se van a usar consumo de APIs aplicado en un demo de su PFC. 
+
+Grupo #6:Solid
+- Tejada comienza explicación teórica, luego yendo al proyecto demostrando que está levantado, explica código y destaca la parte de mapearResponde, luego se dirige a Postman demostrando que Get y Post funcionan, demostró en su demo visual ya en página
+-Moncayo recién comienza explicando las comparaciones entre otros frameworks, luego presenta parte de código y su árbol de carpetas, luego se dirige a la parte web y demuestra el crud
+- Tejada muestra nuevamente diapositivas y nos da las conclusiones, No explican sobre un tema real en Latinoamérica.
+
+Grupo #7: React
+- Ricardo comienza explicación teórica, luego presenta y explica código sobre los accesstoken, se dirige a la pag web ya levantada
+- Arcalle sigue y explica parte del código sobre el api.get sobre cómo obtener esos datos, explica muy bien las validaciones en su código 
+- Fajardo explica parte de su código pero leyendo mucho, no demuestra APIs.
